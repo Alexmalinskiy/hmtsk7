@@ -1,0 +1,80 @@
+{
+  "омлет": [
+    {
+      "ingr_name": "Яйца",
+      "quantity": 2,
+      "measure": "шт"
+    },
+    {
+      "ingr_name": "Молоко",
+      "quantity": 50,
+      "measure": "мл"
+    },
+    {
+      "ingr_name": "Помидор",
+      "quantity": 100,
+      "measure": "г"
+    }
+  ],
+  "стейк": [
+    {
+      "ingr_name": "Говядина",
+      "quantity": 300,
+      "measure": "г"
+    },
+    {
+      "ingr_name": "Специи",
+      "quantity": 5,
+      "measure": "г"
+    },
+    {
+      "ingr_name": "Масло",
+      "quantity": 10,
+      "measure": "мл"
+    }
+  ],
+  "салат": [
+    {
+      "ingr_name": "Помидор",
+      "quantity": 100,
+      "measure": "г"
+    },
+    {
+      "ingr_name": "Огурцы",
+      "quantity": 100,
+      "measure": "г"
+    },
+    {
+      "ingr_name": "Масло",
+      "quantity": 15,
+      "measure": "мл"
+    },
+    {
+      "ingr_name": "Специи",
+      "quantity": 10,
+      "measure": "г"
+    }
+  ],
+  "шарлотка": [
+    {
+      "ingr_name": "Яйца",
+      "quantity": 2,
+      "measure": "шт"
+    },
+    {
+      "ingr_name": "Мука",
+      "quantity": 50,
+      "measure": "г"
+    },
+    {
+      "ingr_name": "Сахар",
+      "quantity": 15,
+      "measure": "г"
+    },
+    {
+      "ingr_name": "Яблоки",
+      "quantity": 150,
+      "measure": "г"
+    }
+  ]
+}
